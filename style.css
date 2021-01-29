@@ -1,0 +1,26 @@
+body{
+    text-align:center;
+    background-color:lightsalmon;
+
+}
+
+body input{
+    margin-bottom: 20px;
+    
+}
+
+#para2{
+    margin-left: 15px;
+}
+
+#display1{
+    margin-top: 30px;
+    font-size: 18;
+    font-weight: bold;
+}
+
+#display2{
+    font-size: 18;
+    font-weight: bold;
+}
+
